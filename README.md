@@ -126,7 +126,7 @@ This project is a **Freelancer Management System** that allows freelancers to re
 ## **Testing**
 - Use **Postman** to test the backend API endpoints.
 - A Postman collection is provided in the `postman` folder for easy testing.
-
+- Postman Doc: [Link](https://documenter.getpostman.com/view/36966051/2sAYk8wPh9)
 ---
 
 ## **Deliverables**
