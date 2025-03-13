@@ -1,4 +1,4 @@
-package com.springbatch.task.Freelancer;
+package com.spring.task.Freelancer;
 
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;

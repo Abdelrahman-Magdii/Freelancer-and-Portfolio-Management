@@ -1,4 +1,4 @@
-package com.springbatch.task.Role;
+package com.spring.task.Role;
 
 public enum Role {
     ADMIN,FREELANCER

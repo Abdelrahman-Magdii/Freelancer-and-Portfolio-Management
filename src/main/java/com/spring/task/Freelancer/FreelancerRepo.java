@@ -1,4 +1,4 @@
-package com.springbatch.task.Freelancer;
+package com.spring.task.Freelancer;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

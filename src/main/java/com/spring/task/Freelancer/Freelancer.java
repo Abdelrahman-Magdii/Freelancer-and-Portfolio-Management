@@ -1,6 +1,6 @@
-package com.springbatch.task.Freelancer;
+package com.spring.task.Freelancer;
 
-import com.springbatch.task.User.User;
+import com.spring.task.User.User;
 import jakarta.persistence.Entity;
 import lombok.Getter;
 import lombok.Setter;

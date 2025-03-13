@@ -1,7 +1,7 @@
-package com.springbatch.task.User;
+package com.spring.task.User;
 
-import com.springbatch.task.Base.BaseUser;
-import com.springbatch.task.Role.Role;
+import com.spring.task.Base.BaseUser;
+import com.spring.task.Role.Role;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;

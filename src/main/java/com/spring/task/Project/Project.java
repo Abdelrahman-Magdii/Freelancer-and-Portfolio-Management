@@ -1,9 +1,10 @@
-package com.springbatch.task.Project;
+package com.spring.task.Project;
 
-import com.springbatch.task.Freelancer.Freelancer;
+import com.spring.task.Freelancer.Freelancer;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
+import org.hibernate.annotations.Formula;
 
 import java.util.List;
 
@@ -23,8 +24,7 @@ public class Project {
     @Column(name = "technology")
     private List<String> technologiesUsed;
 
-
-    @ManyToOne(fetch = FetchType.EAGER)
-    @JoinColumn(name = "freelancer_id", nullable = false)
+    @ManyToOne
+    @JoinColumn(name = "freelancer_id")
     private Freelancer freelancer;
 }

@@ -1,8 +1,7 @@
-package com.springbatch.task.Project;
+package com.spring.task.Project;
 
-import com.springbatch.task.Freelancer.Freelancer;
-import com.springbatch.task.Freelancer.FreelancerRepo;
-import com.springbatch.task.Role.Role;
+import com.spring.task.Freelancer.Freelancer;
+import com.spring.task.Freelancer.FreelancerRepo;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
@@ -28,6 +27,7 @@ public class ProjectService {
     }
 
     public List<Project> searchProjects(String query) {
-        return projectRepository.searchProjects(query);
+        String processedQuery = query.trim().replaceAll("\\s+", " & ");
+        return projectRepository.search(processedQuery);
     }
 }

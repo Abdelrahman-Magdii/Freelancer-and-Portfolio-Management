@@ -1,6 +1,6 @@
-package com.springbatch.task.Freelancer;
+package com.spring.task.Freelancer;
 
-import com.springbatch.task.Role.Role;
+import com.spring.task.Role.Role;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

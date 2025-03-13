@@ -1,4 +1,4 @@
-package com.springbatch.task.Base;
+package com.spring.task.Base;
 
 import jakarta.persistence.*;
 import lombok.Getter;
