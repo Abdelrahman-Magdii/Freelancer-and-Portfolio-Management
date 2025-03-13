@@ -4,7 +4,6 @@ import com.spring.task.Freelancer.Freelancer;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
-import org.hibernate.annotations.Formula;
 
 import java.util.List;
 

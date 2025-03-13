@@ -126,7 +126,7 @@ This project is a **Freelancer Management System** that allows freelancers to re
 ## **Testing**
 - Use **Postman** to test the backend API endpoints.
 - A Postman collection is provided in the `postman` folder for easy testing.
-- Postman Doc: [Link](https://documenter.getpostman.com/view/36966051/2sAYk8wPh9)
+- **Postman Doc**: [Link](https://documenter.getpostman.com/view/36966051/2sAYk8wPh9)
 ---
 
 ## **Deliverables**
@@ -140,5 +140,6 @@ This project is a **Freelancer Management System** that allows freelancers to re
 If you have any questions or need further assistance, feel free to reach out:
 - **Email**: abdulrahmanmagdi527@gmail.com
 - **GitHub**: [Abdelrahman-Magdii](https://github.com/Abdelrahman-Magdii)
+- **LinkedIn**: [Abdelrahman Magdi](www.linkedin.com/in/abdelrahman-magdii)
 
 ---
